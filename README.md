@@ -1,4 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/u4w5kjj5os1tuh7r/branch/main?svg=true)](https://ci.appveyor.com/project/AnastasiaLunina/ahj-forms/branch/main)
+# Webpack5
 
-[Link to the project](https://ahj-popover.netlify.app/)
-
+![CI](https://github.com/milkyWRLD/forms/actions/workflows/web.yml/badge.svg)
